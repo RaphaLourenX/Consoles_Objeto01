@@ -3,6 +3,7 @@ public class FileC{
 	FileB fileB;
 
 	public void methodX{
+		fileA.open();
 	}
 }
 
