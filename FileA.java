@@ -5,4 +5,8 @@ public class FileA{
       public void DoCommand(){
       int id = 1;
       }
+
+      public void open(){
+      }
+
 }
