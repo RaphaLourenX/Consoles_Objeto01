@@ -12,4 +12,7 @@ public class FileA{
       public void open(){
       }
 
+      //Este código foi alterado por um usuário que não o criador do 
+      //repositório Github
+
 }
